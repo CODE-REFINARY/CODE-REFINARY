@@ -1,0 +1,3 @@
+- Hi, I’m George Dubinin
+- I’m interested in digital audio design and manipulation.
+- You may reach me via my university email, gdubinin@ucsd.edu
