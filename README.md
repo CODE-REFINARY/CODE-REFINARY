@@ -1,7 +1,8 @@
 Thank you for visiting my profile!<br>
-I am a university student at <a href="https://ucsd.edu/">UC San Diego</a> studying computer science with interests in multiple engineering disciplines including
-* web UI design, site engineering, and web security
-* microprocessor architecture (ISA design & implementation)
+I'm an aspiring full stack developer with interests in containerization, web security, and React application development. My main project right now is [Chainlink Finary](https://github.com/CODE-REFINARY/Chainlink-Finary), which currently serves as a documentation builder for my current job as well as a convenient opportunity for me to learn new web technology and frameworks. Other career-specific interests of mine include
+* C# native application development and ElectronJS
 * digital audio processing
+* game development (unreal engine 4)
 
-For any and all inquiries please reach me at my personal email, gtdubinin@gmail.com, or at my university email, gdubinin@ucsd.edu. All public repositories are current projects that are either completed or still under construction. Let's connect over <a href="https://www.linkedin.com/in/george-dubinin/">LinkedIn</a>! Also check out my <a href="www.chainlinkfinary.com">website</a> at www.chainlinkfinary.com!
+
+For any and all inquiries please reach me at my personal email, gtdubinin@gmail.com. All public repositories are current projects that are either completed or still under construction. Let's connect over <a href="https://www.linkedin.com/in/george-dubinin/">LinkedIn</a>!
