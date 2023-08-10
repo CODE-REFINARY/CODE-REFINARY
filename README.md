@@ -4,4 +4,4 @@ Hello World, I'm an aspiring full stack developer with interests in containeriza
 * game development (unreal engine 4)
 
 
-For any and all inquiries please reach me at my personal email, gtdubinin@gmail.com. All public repositories are current projects that are either completed or still under construction. Let's connect over <a href="https://www.linkedin.com/in/george-dubinin/">LinkedIn</a>!
+For any and all inquiries please reach me at my personal email, gtdubinin@gmail.com, or professional email, gdubinin@chainlinkfinary.com. All public repositories are current projects that are either completed or still under construction. Let's connect over <a href="https://www.linkedin.com/in/george-dubinin/">LinkedIn</a>!
