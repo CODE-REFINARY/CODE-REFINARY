@@ -1,7 +1,4 @@
-Hello World, I'm an aspiring full stack developer with interests in containerization, web security, and React application development. My main project right now is [Chainlink Finary](https://github.com/CODE-REFINARY/Chainlink-Finary), which currently serves as a documentation builder for my current job as well as a convenient opportunity for me to learn new web technology and frameworks. Other career-specific interests of mine include
-* C# native application development and ElectronJS
-* digital audio processing
-* game development (unreal engine 4)
+Hello, I'm an app developer with particular affection for python and javascript. In fact, my pet-project, [Chainlink Finary](https://github.com/CODE-REFINARY/Chainlink-Finary) (down temporarily), utilizes both in an elegantly decoupled union of Django (backend) and React (frontend). I also have experience with C/C++, Java, PHP, and even Haskell (just a bit). I spend a lot of time thinking about dependency management which has guided my interest in containerization as a technology as well as a skill (insofar as containerizing apps with Docker might be considered such).
 
 
 For any and all inquiries please reach me at my personal email, gtdubinin@gmail.com, or professional email, gdubinin@chainlinkfinary.com. All public repositories are current projects that are either completed or still under construction. Let's connect over <a href="https://www.linkedin.com/in/george-dubinin/">LinkedIn</a>!
